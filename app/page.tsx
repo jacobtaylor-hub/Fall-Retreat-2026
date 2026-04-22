@@ -150,12 +150,12 @@ export default function FallRetreat2026Page() {
                     of the gospel.
                   </p>
                   <a
-                    href="https://brianzahnd.com"
+                    href="https://brianzahnd.substack.com"
                     target="_blank"
                     rel="noreferrer"
                     className="mt-3 inline-block text-sm text-amber-200 hover:underline"
                   >
-                    Visit website →
+                    Visit Brian's Substack →
                   </a>
                 </div>
               </div>
@@ -180,12 +180,12 @@ export default function FallRetreat2026Page() {
                     restoration, and the healing of the human soul.
                   </p>
                   <a
-                    href="https://bradjersak.com"
+                    href="https://substack.com/@bradleyjersak124315"
                     target="_blank"
                     rel="noreferrer"
                     className="mt-3 inline-block text-sm text-amber-200 hover:underline"
                   >
-                    Visit website →
+                    Visit Bradley's Substack →
                   </a>
                 </div>
               </div>
