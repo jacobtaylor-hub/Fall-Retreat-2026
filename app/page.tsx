@@ -133,7 +133,7 @@ export default function FallRetreat2026Page() {
             <div className="mt-6 grid gap-6 sm:grid-cols-2">
               <div className="overflow-hidden rounded-3xl border border-white/10 bg-white/5">
                 <img
-                  src="https://storage1.snappages.site/DKZ2TW/assets/images/24069716_509x407_2500.jpg"
+                  src="https://storage1.snappages.site/DKZ2TW/assets/images/24069831_488x369_2500.jpg"
                   alt="Brian Zahnd speaking at a Christian retreat conference"
                   className="h-64 w-full object-cover object-[50%_10%]"
                 />
