@@ -258,7 +258,7 @@ export default function FallRetreat2026Page() {
           <p className="mt-3 leading-7 text-stone-300">Spencer, Tennessee</p>
           <p className="mt-4 leading-7 text-stone-300">
             A scenic setting for worship, teaching, quiet reflection, shared
-            meals, and restful community throughout the retreat.
+            meals, and community throughout the retreat.
           </p>
         </div>
       </section>
@@ -420,7 +420,7 @@ export default function FallRetreat2026Page() {
             Schedule
           </p>
           <p className="mt-4 text-base leading-7 text-stone-300">
-            The retreat is structured around a simple rhythm of teaching, shared
+            The retreat is structured around a simple rhythm of prayer, worship, teaching, shared
             meals, rest, and time in nature.
           </p>
 
@@ -438,11 +438,11 @@ export default function FallRetreat2026Page() {
               <p className="text-lg font-semibold">Tuesday</p>
               <ul className="mt-3 space-y-1 text-sm text-stone-300">
                 <li>Breakfast</li>
-                <li>Morning teaching session</li>
+                <li>Morning session</li>
                 <li>Lunch</li>
                 <li>Afternoon free time</li>
                 <li>Dinner</li>
-                <li>Evening teaching session</li>
+                <li>Evening session</li>
               </ul>
             </div>
 
@@ -450,11 +450,11 @@ export default function FallRetreat2026Page() {
               <p className="text-lg font-semibold">Wednesday</p>
               <ul className="mt-3 space-y-1 text-sm text-stone-300">
                 <li>Breakfast</li>
-                <li>Morning teaching session</li>
+                <li>Morning session</li>
                 <li>Lunch</li>
                 <li>Afternoon free time</li>
                 <li>Dinner</li>
-                <li>Evening teaching session</li>
+                <li>Evening session</li>
               </ul>
             </div>
 
