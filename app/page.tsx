@@ -127,7 +127,7 @@ export default function FallRetreat2026Page() {
 
           <div className="rounded-[2rem] border border-stone-800 bg-gradient-to-br from-stone-900 to-stone-950 p-8">
             <h2 className="text-sm uppercase tracking-[0.35em] text-amber-200/80">
-              Brian Zahnd and Bradley Jersak Retreat Speakers
+              Retreat Speakers - Brian Zahnd and Bradley Jersak
             </h2>
 
             <div className="mt-6 grid gap-6 sm:grid-cols-2">
