@@ -487,13 +487,12 @@ export default function FallRetreat2026Page() {
             Reserve Your Place for Fall Retreat 2026
           </h2>
           <p className="mx-auto mt-6 max-w-2xl text-base leading-8 text-stone-300 md:text-lg">
-            Retreat pricing is $1,100 for single occupancy and $900 for double
-            occupancy. Fees include your room and three meals each day.
+            Retreat pricing is $1,100 for single occupancy and $900 per person for double
+            occupancy. Pricing includes your room, three meals each day, and all sessions.
           </p>
           <p className="mx-auto mt-4 max-w-2xl text-base leading-8 text-stone-300 md:text-lg">
             Reserve your place using the registration link below. Space is
-            limited, and registration is available for both single and double
-            occupancy options.
+            limited. Rooms will be assigned on a first come, first served basis.
           </p>
 
           <div className="mx-auto mt-6 max-w-xl text-left text-sm leading-7 text-stone-300">
@@ -501,15 +500,15 @@ export default function FallRetreat2026Page() {
               Additional details
             </p>
             <ul className="list-inside list-disc space-y-2">
-              <li>A deposit is required to secure your spot</li>
+              <li>A non-refundable deposit is required to secure your spot</li>
               <li>
                 Space is limited and registration may close once capacity is
                 reached
               </li>
               <li>Rooms are assigned based on selected occupancy</li>
               <li>
-                Please review the registration page for cancellation and refund
-                policies
+                Please review the registration page at the button below for cancellation and payment 
+                deadlines.
               </li>
             </ul>
           </div>
