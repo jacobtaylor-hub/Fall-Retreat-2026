@@ -429,37 +429,41 @@ export default function FallRetreat2026Page() {
               <p className="text-lg font-semibold">Monday</p>
               <ul className="mt-3 space-y-1 text-sm text-stone-300">
                 <li>Arrival and check-in at the lodge in the afternoon</li>
-                <li>Dinner together (included)</li>
-                <li>Opening session to begin our time together</li>
+                <li>Dinner together</li>
+                <li>Opening session</li>
               </ul>
             </div>
 
             <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
               <p className="text-lg font-semibold">Tuesday</p>
               <ul className="mt-3 space-y-1 text-sm text-stone-300">
-                <li>Breakfast, lunch, and dinner provided</li>
-                <li>Morning teaching sessions with the speakers</li>
+                <li>Breakfast</li>
+                <li>Morning teaching session</li>
+                <li>Lunch</li>
                 <li>Afternoon free time</li>
-                <li>Evening teaching sessions with the speakers</li>
+                <li>Dinner</li>
+                <li>Evening teaching session</li>
               </ul>
             </div>
 
             <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
               <p className="text-lg font-semibold">Wednesday</p>
               <ul className="mt-3 space-y-1 text-sm text-stone-300">
-                <li>Breakfast, lunch, and dinner provided</li>
-                <li>Morning teaching sessions with the speakers</li>
+                <li>Breakfast</li>
+                <li>Morning teaching session</li>
+                <li>Lunch</li>
                 <li>Afternoon free time</li>
-                <li>Evening teaching sessions with the speakers</li>
+                <li>Dinner</li>
+                <li>Evening teaching session</li>
               </ul>
             </div>
 
             <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
               <p className="text-lg font-semibold">Thursday</p>
               <ul className="mt-3 space-y-1 text-sm text-stone-300">
-                <li>Breakfast (included)</li>
+                <li>Breakfast</li>
                 <li>Final session with Q&amp;A</li>
-                <li>Check out by 11 AM</li>
+                <li>Check out by 11AM</li>
               </ul>
             </div>
           </div>
