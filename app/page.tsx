@@ -351,7 +351,7 @@ export default function FallRetreat2026Page() {
           The Park
         </p>
         <h2 className="mt-4 text-center text-3xl font-semibold md:text-5xl">
-          Explore the beauty of Fall Creek Falls
+          Explore the Beauty of Fall Creek Falls
         </h2>
         <div className="mt-6 grid gap-6 md:grid-cols-2 lg:grid-cols-4">
           {[
