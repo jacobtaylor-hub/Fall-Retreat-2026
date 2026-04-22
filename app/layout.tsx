@@ -13,3 +13,13 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     </html>
   );
 }
+export default function RootLayout({ children }) {
+  return (
+    <html>
+      <head>
+        <link rel="stylesheet" href="https://use.typekit.net/wpl6rdc.css" />
+      </head>
+      <body>{children}</body>
+    </html>
+  );
+}
