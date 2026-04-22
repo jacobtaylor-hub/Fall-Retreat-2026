@@ -1,4 +1,5 @@
 import type { ReactNode } from "react";
+import "./globals.css";
 
 export default function RootLayout({
   children,
@@ -10,9 +11,7 @@ export default function RootLayout({
       <head>
         <link rel="stylesheet" href="https://use.typekit.net/wpl6rdc.css" />
       </head>
-      <body className="bg-stone-950 text-stone-100">
-        {children}
-      </body>
+      <body className="bg-stone-950 text-stone-100">{children}</body>
     </html>
   );
 }
