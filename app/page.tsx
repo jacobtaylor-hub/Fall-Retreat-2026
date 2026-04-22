@@ -534,3 +534,29 @@ export default function FallRetreat2026Page() {
     </div>
   );
 }
+<footer className="border-t border-stone-800 bg-stone-950 py-10">
+  <div className="mx-auto max-w-7xl px-6 text-center">
+    
+    <a href="https://wolc.com" target="_blank" rel="noreferrer">
+      <img
+        src="https://storage1.snappages.site/DKZ2TW/assets/images/9360303_2000x374_2500.png"
+        alt="Word of Life Church logo"
+        className="mx-auto h-10 md:h-12 opacity-80 hover:opacity-100 transition"
+      />
+    </a>
+
+    <p className="mt-4 text-xs uppercase tracking-[0.3em] text-stone-400">
+      Word of Life Church
+    </p>
+
+    <a
+      href="https://wolc.com"
+      target="_blank"
+      rel="noreferrer"
+      className="mt-2 inline-block text-sm text-stone-300 hover:text-amber-200 transition"
+    >
+      wolc.com
+    </a>
+
+  </div>
+</footer>
