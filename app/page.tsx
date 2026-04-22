@@ -542,10 +542,6 @@ export default function FallRetreat2026Page() {
       />
     </a>
 
-    <p className="mt-4 text-xs uppercase tracking-[0.3em] text-stone-400">
-      Word of Life Church
-    </p>
-
     <a
       href="https://wolc.com"
       target="_blank"
