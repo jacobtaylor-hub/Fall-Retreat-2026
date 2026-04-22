@@ -517,10 +517,10 @@ export default function FallRetreat2026Page() {
               rel="noreferrer"
               className="rounded-2xl bg-amber-100 px-7 py-3 text-sm font-semibold uppercase tracking-[0.22em] text-stone-950"
             >
-              Register on Church Center
+              Register Here
             </a>
             <a
-              href="mailto:info@wordoflifechurch.org"
+              href="mailto:megan.taylor@wolc.com"
               className="rounded-2xl border border-white/15 bg-white/5 px-7 py-3 text-sm font-semibold uppercase tracking-[0.22em] text-stone-100"
             >
               Contact the Church
