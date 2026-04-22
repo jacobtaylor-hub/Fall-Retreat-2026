@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import type { ReactNode } from "react";
 import "./globals.css";
 
-const siteUrl = "https://YOUR-VERCEL-OR-CUSTOM-DOMAIN.com";
+const siteUrl = "https://wolc.com/retreat";
 const ogImage =
   "https://storage1.snappages.site/DKZ2TW/assets/images/24051839_1200x800_2500.jpg";
 
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     "Telos of the Ages",
   ],
   alternates: {
-    canonical: "/",
+    canonical: siteUrl,
   },
   openGraph: {
     title:
