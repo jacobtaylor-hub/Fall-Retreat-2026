@@ -6,7 +6,6 @@ export default function FallRetreat2026Page() {
   const roycroftStyle = { fontFamily: '"WTR Roycroft", serif' };
   return (
     <div className="min-h-screen bg-stone-950 text-stone-100">
-      <style>{`@import url("https://use.typekit.net/wpl6rdc.css");`}</style>
       <section className="relative overflow-hidden">
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_top,rgba(255,245,220,0.16),transparent_35%),linear-gradient(to_bottom,rgba(40,30,20,0.35),rgba(15,10,5,0.88)),linear-gradient(180deg,#8b7766_0%,#6d5a4c_18%,#4b3f35_42%,#2d261f_70%,#16120f_100%)]" />
         <div className="absolute inset-0 opacity-40 bg-[url('https://storage1.snappages.site/DKZ2TW/assets/images/24051839_1200x800_2500.jpg')] bg-cover bg-center" />
