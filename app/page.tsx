@@ -531,10 +531,7 @@ export default function FallRetreat2026Page() {
           </div>
         </div>
       </section>
-    </div>
-  );
-}
-<footer className="border-t border-stone-800 bg-stone-950 py-10">
+      <footer className="border-t border-stone-800 bg-stone-950 py-10">
   <div className="mx-auto max-w-7xl px-6 text-center">
     
     <a href="https://wolc.com" target="_blank" rel="noreferrer">
@@ -560,3 +557,7 @@ export default function FallRetreat2026Page() {
 
   </div>
 </footer>
+    </div>
+  );
+}
+
